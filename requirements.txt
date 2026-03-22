@@ -1,6 +1,7 @@
-pandas
-numpy
+fastapi
+uvicorn
 scikit-learn
-matplotlib
-seaborn
-jupyter
+numpy
+pandas
+shap
+imbalanced-learn
